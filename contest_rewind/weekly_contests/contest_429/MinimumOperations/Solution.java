@@ -1,4 +1,4 @@
-package contest_rewind.weekly_contests.contest_429;
+package contest_rewind.weekly_contests.contest_429.MinimumOperations;
 
 import java.util.Arrays;
 
